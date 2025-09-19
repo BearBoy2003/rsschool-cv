@@ -1,6 +1,6 @@
 # Mikhail Parshin  
 
-> *Aspiring Frontend Developer | HSE Nizhny Novgorod Student | Passionate about Clean Code and Web Technologies*
+> Aspiring Frontend Developer | HSE Nizhny Novgorod Student | Passionate about Clean Code and Web Technologies
 
 ---
 
@@ -51,3 +51,4 @@ console.log(validPhoneNumber("123-456-7890"));   // true
 console.log(validPhoneNumber("123.456.7890"));   // true
 console.log(validPhoneNumber("1234567890"));     // false
 console.log(validPhoneNumber("(123) 456-789"));  // false
+```
